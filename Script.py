@@ -25,6 +25,17 @@ class script(object):
 
 <b>DEVS:</b>
 - <a href=https://t.me/DARKWEBLOAD>ᎮᏒᎧᎦᏋᏕᎧᏒ</a>"""
+    SONG_TXT ="""<b>SONG MODULE</b>
+
+Song Download
+Song Download Module, For Those Who Love Music
+
+🎈 Command
+
+- /song [Song Name] - To Download Music
+
+Usage
+- working pm and groups"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
